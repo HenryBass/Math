@@ -1,2 +1,2 @@
-# Math
-All my math projects
+## Math
+All my math projects.
